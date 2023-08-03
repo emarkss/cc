@@ -15,3 +15,8 @@
     color: #fff;
     text-decoration: none
 }
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #dbdbdb;
+    opacity: 1; /* Firefox */
+  }
